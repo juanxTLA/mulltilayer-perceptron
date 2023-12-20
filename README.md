@@ -1,10 +1,5 @@
-The saved graph corresponds to the neural network in the jupyter cell.
-There are two drivers for the two different networks
-The neural networks I used are saved in the txt files
-
-Accuracy is not the best it can be, probably with more work on it and some enhancements it could be brought up to 90 or more
-The most I got was 84%, however I did not save that one, and it took too long as to run it again. In addition it used relu, sigmoid,
-and softmax in different layers which I don't know if it is advisable
+## Multilayer Perceptron Implementation
+This repository contains an implementation of a Multilayer Perceptron in Python without the use of any external library
 
 PROBLEMS
     -There is an issue when trying to get a prediction from a loaded network.
